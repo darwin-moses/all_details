@@ -1,0 +1,6 @@
+linux-done
+figma-done
+html/css-done
+js-done
+sql-done
+git-not done

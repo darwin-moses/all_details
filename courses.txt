@@ -1,0 +1,6 @@
+linux ,
+figma,
+html/css,
+js,
+sql,
+git 
